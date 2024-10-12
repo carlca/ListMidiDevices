@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Windows 11"/>
+    <Units>
+      <Unit>
+        <Filename Value="listmididevices.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ListMIDIDevices"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="20"/>
+        <CursorPos X="78" Y="52"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/Applications/Lazarus_trunk/fpcsrc/packages/winunits-base/src/mmsystem.pp"/>
+        <UnitName Value="MMSystem"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/Applications/Lazarus_trunk/fpcsrc/rtl/wince/windows.pp"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../caMidi/camidimac.pas"/>
+        <UnitName Value="caMidiMac"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="12" Y="11"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../caMidi/camidiwin.pas"/>
+        <UnitName Value="caMidiWin"/>
+        <EditorIndex Value="2"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/Applications/Lazarus_trunk/fpcsrc/packages/univint/src/MacOSAll.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="12">
+      <Position>
+        <Filename Value="listmididevices.lpr"/>
+        <Caret Line="55" Column="5" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="listmididevices.lpr"/>
+        <Caret Line="29" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="listmididevices.lpr"/>
+        <Caret Line="4" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="listmididevices.lpr"/>
+        <Caret Line="8" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="listmididevices.lpr"/>
+        <Caret Line="50" Column="8" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="listmididevices.lpr"/>
+        <Caret Line="19" Column="84" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="listmididevices.lpr"/>
+        <Caret Line="4" Column="13"/>
+      </Position>
+      <Position>
+        <Filename Value="listmididevices.lpr"/>
+        <Caret Line="9" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="listmididevices.lpr"/>
+        <Caret Line="4" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="listmididevices.lpr"/>
+        <Caret Line="6"/>
+      </Position>
+      <Position>
+        <Filename Value="listmididevices.lpr"/>
+        <Caret Line="7" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="listmididevices.lpr"/>
+        <Caret Line="17" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="listmididevices.lpr"/>
+        <Caret Line="3" Column="10"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
